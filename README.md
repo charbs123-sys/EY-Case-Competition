@@ -1,1 +1,2 @@
 # EY-Case-Competition
+Analysis of a new insurance product for the island nation of Atlantica using Actuarial methods. Here we perform EDA observing and projecting trends for different metrics such as wages, number of employees, number of claims and Medical expenses using a variety of methods, including but not limited to linear regressions and linear projection. Interestingly, we discover key ideas on an industry wide basis generating insights that reflect the inherent risk faced by the firm.
